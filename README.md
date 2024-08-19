@@ -3,7 +3,7 @@
 My name is Daniel Mederos, a seasoned backend developer with extensive experience in managing Linux servers and utilizing Docker. I possess a strong background in developing console and desktop GUI applications, with a primary focus on automating routine tasks and database management. I also co-founded and I am currently working for WebGraphix, a web-design company.
 
 - **Email:** danielmederos2424@gmail.com
-- - **Get your dream website:** www.webgraphix.online
+-  **Get your dream website:** www.webgraphix.online
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel.wicked) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-mederos-5bb2662a9) 
