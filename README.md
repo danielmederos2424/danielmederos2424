@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Daniel Mederos, a seasoned backend developer with extensive experience in managing Linux servers and utilizing Docker. I possess a strong background in developing console and desktop GUI applications, with a primary focus on automating routine tasks and database management. I also co-founded and I am currently working for WebGraphix, a web-design company.<br>
+My name is Daniel Mederos, a seasoned Backend Developer with extensive experience in managing Linux servers and utilizing Docker. Currently, I work as a DevOps Engineer at @PakCore, where I also specialize in developing and optimizing Odoo modules. I have a strong background in building console and desktop GUI applications, with a focus on automating routine tasks and database management. In addition, I am the co-founder of WebGraphix, a web design company, where I continue to play an active role.<br>
 
 - **Email:** danielmederos2424@gmail.com
 -  **Get your dream website:** www.webgraphix.online
