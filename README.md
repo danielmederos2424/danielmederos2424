@@ -5,6 +5,7 @@ I am also experienced in developing cross-platform mobile applications, leveragi
 
 🚀 Passionate about scalable systems, automation, and creating efficient backend solutions.<br>
 
+- **Check my website:** danielmederos.com
 - **Email:** danielmederos2424@gmail.com
 -  **Get your dream website:** www.webgraphix.online
 
