@@ -1,63 +1,58 @@
 # 👋 Hi, I’m **Daniel Mederos**
 
-### DevOps Engineer • Full-Stack Developer • Odoo Architect
+### Full-Stack Engineer • Product Builder • Systems Architect
 
-I build scalable, automated systems that *just work*.
-Currently a **DevOps Engineer at [PakCore](https://pakcore.net)**, focused on **Odoo architecture**, backend performance, and infrastructure optimization.
+I build **complete software products** — from backend architecture and infrastructure to polished user-facing applications — focused on **real businesses and real-world use cases**.
 
-As **co-founder of [WebGraphix](https://webgraphix.online)**, I develop **websites, native mobile apps, and personalized software solutions** blending design and engineering excellence.
+Currently focused on **developing and scaling WebGraphix**, where I design and ship **production-ready platforms** for restaurants, retail, and service-based businesses.
 
-💡 **Core values:** automation · efficiency · consistency · clean code
+I also work as a **DevOps Engineer at PakCore**, specializing in **Odoo architecture and system optimization**.
 
----
-
-## 🧠 Areas of Expertise
-
-### 🛠️ Backend & DevOps
-
-Python · SQL · Linux · Docker · Nginx · JavaScript · TypeScript · Flask · Node.js · PostgreSQL · Bash · Odoo Architecture
-
-### 💻 Frontend & Mobile
-
-React · React Native · Electron · Vite.js · CSS/SCSS · Framer Motion · Material UI
-
-### 🧩 Tools & Platforms
-
-Git · GitHub · WireGuard · AdGuard · Shell Scripting · Markdown · Resend API
+💡 **Core values:** scalability · automation · clean systems · real-world impact
 
 ---
 
-## 🌍 What I Work On
+## 🚀 What I Build
 
-* **Odoo Architecture & Modular APIs:** custom backend logic, integration layers, and deployment automation.
-* **Scalable APIs:** Flask / Node.js + PostgreSQL with JWT auth, reporting & analytics.
-* **Automation & Infrastructure:** Dockerized stacks, VPN setups (WireGuard), Linux server orchestration.
-* **Cross-Platform Apps:** React Native mobile apps & Electron desktop tools with Material Design 3.
-* **WebGraphix Solutions:** modern responsive websites, SEO, restaurant management platforms, and native mobile apps.
+At WebGraphix, I’m actively developing:
+
+* **Restaurant & Retail Platforms:** full POS + inventory ecosystems with custom backend logic
+* **Business Management Systems:** tailored tools for operations, reporting, and automation
+* **Modern Web Platforms:** responsive, SEO-optimized, high-performance websites
+* **Cross-Platform Apps:** mobile (React Native) and desktop (Electron) apps connected to unified APIs
+* **Custom APIs & Infrastructure:** secure, scalable backends with Dockerized deployments
+
+---
+
+## 🧠 Expertise
+
+### ⚙️ Full-Stack Development
+
+React · React Native · Electron · Node.js · Flask · PostgreSQL · TypeScript · Vite
+
+### 🛠️ DevOps & Infrastructure
+
+Docker · Linux · Nginx · CI/CD · WireGuard · Server orchestration · Bash
+
+### 🧩 Architecture & Systems
+
+Odoo · API Design · Modular systems · Automation pipelines · Performance optimization
+
+---
+
+## 🧩 Current Focus
+
+Building **end-to-end ecosystems**, not isolated apps — where frontend, backend, and infrastructure are designed together to scale as a single system.
 
 ---
 
 ## 📫 Contact
 
-* 🌐 **Portfolio:** [danielmederos.com](https://www.danielmederos.com)
-* 🧩 **WebGraphix:** [webgraphix.online](https://webgraphix.online)
-* ✉️ **Email:** [danielmederos2424@gmail.com](mailto:danielmederos2424@gmail.com)
-* 💼 [LinkedIn](https://linkedin.com/in/danielmederos2424) 📸 [Instagram](https://instagram.com/@daniel.wicked)
+* 🌐 [https://www.danielmederos.com](https://www.danielmederos.com)
+* 🧩 [https://webgraphix.online](https://webgraphix.online)
+* ✉️ [danielmederos2424@gmail.com](mailto:danielmederos2424@gmail.com)
+* 💼 [https://linkedin.com/in/danielmederos2424](https://linkedin.com/in/danielmederos2424)
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=danielmederos2424\&theme=dark\&include_all_commits=true\&count_private=true\&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=danielmederos2424\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmederos2424\&theme=dark\&layout=compact\&hide_border=false)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=danielmederos2424\&theme=radical\&no-frame=false\&margin-w=4)
-
----
-
-> “Automate everything. Scale efficiently. Build systems that just work.”
+> “Build systems, not just features.”
